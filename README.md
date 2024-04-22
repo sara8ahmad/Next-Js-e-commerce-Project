@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![next-js](https://github.com/sara8ahmad/Next-Js-e-commerce-Project/assets/111248837/fb8d4155-8ae1-4b2d-b23e-feb139341548)
+
+
 ## Getting Started
 
 First, run the development server:
